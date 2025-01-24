@@ -5,8 +5,6 @@ This is a demo Crowd Management System that demonstrates the use of various cutt
 ## Features
 
 - **Real-Time Crowd Monitoring**: Monitor crowd density and movement using sensors and data analytics.
-- **Alerts & Notifications**: Sends alerts when the crowd density reaches critical levels.
-- **Crowd Flow Optimization**: Provides suggestions for crowd flow improvement to ensure safety.
 - **Data Analysis**: Analyzes crowd behavior and movements to improve future crowd management strategies.
 
 ## Files
